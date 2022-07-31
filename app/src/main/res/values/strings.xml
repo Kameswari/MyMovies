@@ -1,0 +1,18 @@
+<resources xmlns:tools="http://schemas.android.com/tools">
+    <string name="app_name">MyMovies</string>
+    <string name="no_favorites">No favorites found</string>
+    <string name="my_favorites">My Favorites</string>
+    <string name="search">Search</string>
+    <string name="no_results">No results found</string>
+    <string name="search_movie_title">Search movie by title</string>
+    <string name="please_connect_internet">Please connect to internet to use this feature</string>
+    <string name="please_connect_internet_complete_details">Please connect to internet to view full details</string>
+    <string name="search_movies" tools:ignore="ExtraTranslation">Search movies</string>
+    <string name="my_movie">My movie</string>
+    <string name="year">Year:</string>
+    <string name="plot">Plot:</string>
+    <string name="mpaa_rating">MPAA Rating:</string>
+    <string name="problem_connecting_server">Problem while connecting to server</string>
+    <string name="please_wait">Please wait</string>
+    <string name="favorite">Favorite</string>
+</resources>
