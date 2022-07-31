@@ -17,10 +17,9 @@ Thank you for providing me opportunity
 
 ## Code walkthrough
 
-- Code has been written both Java and Kotlin. Majority portion is in Java.
+- Code has been written in native Android by using Java and Kotlin.
 - Followed MVVM design pattern
 - Used RxJava for making api calls
 - Used SQLite to store Favorites
-- Each screen is having respective view model classes
-- Duplicate code is mostly avoided.
 - Proper comments have been added in the code
+- Utility and network classes are placed in respective packages
